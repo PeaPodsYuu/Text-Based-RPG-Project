@@ -1,5 +1,9 @@
 # Text-Based-RPG-Project
 
+A project by:
+- Cecan Bogdan-Cosmin (Lead Developer and Testing) // https://github.com/PeaPodsYuu
+- Vulpe Maria-Alexandra (Programming, Concepts and Balancing) // https://github.com/Grummeln
+
 ______________________INTRODUCTION______________________
 
 This project was created as a university project for the end of year 1. I chose to ignore the aesthetic and graphic side, for a more technical approach, to push my knowledge of the C++ language and Object Oriented Programming capabilities to its limits, which I believe worked quite well for my largest scale project to date.
